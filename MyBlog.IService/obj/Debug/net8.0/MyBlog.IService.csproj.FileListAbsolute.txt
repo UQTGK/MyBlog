@@ -1,0 +1,15 @@
+D:\C# Projects\MyBlog\MyBlog.IService\bin\Debug\net8.0\MyBlog.IService.deps.json
+D:\C# Projects\MyBlog\MyBlog.IService\bin\Debug\net8.0\MyBlog.IService.dll
+D:\C# Projects\MyBlog\MyBlog.IService\bin\Debug\net8.0\MyBlog.IService.pdb
+D:\C# Projects\MyBlog\MyBlog.IService\obj\Debug\net8.0\MyBlog.IService.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\MyBlog\MyBlog.IService\obj\Debug\net8.0\MyBlog.IService.AssemblyInfoInputs.cache
+D:\C# Projects\MyBlog\MyBlog.IService\obj\Debug\net8.0\MyBlog.IService.AssemblyInfo.cs
+D:\C# Projects\MyBlog\MyBlog.IService\obj\Debug\net8.0\MyBlog.IService.csproj.CoreCompileInputs.cache
+D:\C# Projects\MyBlog\MyBlog.IService\obj\Debug\net8.0\MyBlog.IService.dll
+D:\C# Projects\MyBlog\MyBlog.IService\obj\Debug\net8.0\refint\MyBlog.IService.dll
+D:\C# Projects\MyBlog\MyBlog.IService\obj\Debug\net8.0\MyBlog.IService.pdb
+D:\C# Projects\MyBlog\MyBlog.IService\obj\Debug\net8.0\ref\MyBlog.IService.dll
+D:\C# Projects\MyBlog\MyBlog.IService\bin\Debug\net8.0\MyBlog.Model.dll
+D:\C# Projects\MyBlog\MyBlog.IService\bin\Debug\net8.0\MyBlog.Model.pdb
+D:\C# Projects\MyBlog\MyBlog.IService\obj\Debug\net8.0\MyBlog.IService.csproj.AssemblyReference.cache
+D:\C# Projects\MyBlog\MyBlog.IService\obj\Debug\net8.0\MyBlog.IService.csproj.CopyComplete

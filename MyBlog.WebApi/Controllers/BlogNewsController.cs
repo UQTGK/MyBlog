@@ -44,7 +44,7 @@ namespace MyBlog.WebApi.Controllers
             {
                 return ApiResultHelper.Error("create fail");
             }
-            return ApiResultHelper.Success(blogNews);
+            return ApiResultHelper.Success(b);
         }
         [HttpDelete("Delete")]
         public async Task<ActionResult<ApiResult>> Delete(int id)

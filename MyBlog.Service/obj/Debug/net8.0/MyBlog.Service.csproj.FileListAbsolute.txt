@@ -17,3 +17,4 @@ D:\C# Projects\MyBlog\MyBlog.Service\obj\Debug\net8.0\MyBlog.Service.dll
 D:\C# Projects\MyBlog\MyBlog.Service\obj\Debug\net8.0\refint\MyBlog.Service.dll
 D:\C# Projects\MyBlog\MyBlog.Service\obj\Debug\net8.0\MyBlog.Service.pdb
 D:\C# Projects\MyBlog\MyBlog.Service\obj\Debug\net8.0\ref\MyBlog.Service.dll
+D:\C# Projects\MyBlog\MyBlog.Service\obj\Debug\net8.0\MyBlog.Service.sourcelink.json

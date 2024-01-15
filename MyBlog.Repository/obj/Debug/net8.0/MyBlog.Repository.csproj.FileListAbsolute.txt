@@ -15,3 +15,4 @@ D:\C# Projects\MyBlog\MyBlog.Repository\obj\Debug\net8.0\MyBlog.Repository.dll
 D:\C# Projects\MyBlog\MyBlog.Repository\obj\Debug\net8.0\refint\MyBlog.Repository.dll
 D:\C# Projects\MyBlog\MyBlog.Repository\obj\Debug\net8.0\MyBlog.Repository.pdb
 D:\C# Projects\MyBlog\MyBlog.Repository\obj\Debug\net8.0\ref\MyBlog.Repository.dll
+D:\C# Projects\MyBlog\MyBlog.Repository\obj\Debug\net8.0\MyBlog.Repository.sourcelink.json

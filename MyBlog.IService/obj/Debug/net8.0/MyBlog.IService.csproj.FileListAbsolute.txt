@@ -13,3 +13,4 @@ D:\C# Projects\MyBlog\MyBlog.IService\bin\Debug\net8.0\MyBlog.Model.dll
 D:\C# Projects\MyBlog\MyBlog.IService\bin\Debug\net8.0\MyBlog.Model.pdb
 D:\C# Projects\MyBlog\MyBlog.IService\obj\Debug\net8.0\MyBlog.IService.csproj.AssemblyReference.cache
 D:\C# Projects\MyBlog\MyBlog.IService\obj\Debug\net8.0\MyBlog.IService.csproj.CopyComplete
+D:\C# Projects\MyBlog\MyBlog.IService\obj\Debug\net8.0\MyBlog.IService.sourcelink.json

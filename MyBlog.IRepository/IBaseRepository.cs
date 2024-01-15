@@ -18,6 +18,7 @@ namespace MyBlog.IRepository
         /// 查询全部的数据
         /// </summary>
         /// <returns></returns>
+        Task<TEntity> FindAsync(Expression<Func<TEntity,bool>> func);
         Task<List<TEntity>> QueryAsync();
         /// <summary>
         /// 自定义条件查询

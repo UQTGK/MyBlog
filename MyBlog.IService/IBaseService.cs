@@ -13,6 +13,7 @@ namespace MyBlog.IService
         Task<bool> CreateAsync(TEntity entity);
         Task<bool> DeleteAsync(int id);
         Task<bool> EditAsync(TEntity entity);
+        Task<TEntity> FindAsync(Expression<Func<TEntity, bool>> func);
         Task<TEntity> FindAsync(int id);
         /// <summary>
         /// 查询全部的数据

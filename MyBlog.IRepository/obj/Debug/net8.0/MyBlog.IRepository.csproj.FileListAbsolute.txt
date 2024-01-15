@@ -13,3 +13,4 @@ D:\C# Projects\MyBlog\MyBlog.IRepository\obj\Debug\net8.0\MyBlog.IRepository.dll
 D:\C# Projects\MyBlog\MyBlog.IRepository\obj\Debug\net8.0\refint\MyBlog.IRepository.dll
 D:\C# Projects\MyBlog\MyBlog.IRepository\obj\Debug\net8.0\MyBlog.IRepository.pdb
 D:\C# Projects\MyBlog\MyBlog.IRepository\obj\Debug\net8.0\ref\MyBlog.IRepository.dll
+D:\C# Projects\MyBlog\MyBlog.IRepository\obj\Debug\net8.0\MyBlog.IRepository.sourcelink.json

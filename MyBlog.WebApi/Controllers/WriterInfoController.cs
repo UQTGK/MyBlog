@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using MyBlog.IService;
 using MyBlog.Model;
+using MyBlog.WebApi.Utility._MD5;
 using MyBlog.WebApi.Utility.ApiResult;
 
 namespace MyBlog.WebApi.Controllers
@@ -23,7 +24,7 @@ namespace MyBlog.WebApi.Controllers
             {
                 Name = name,
                 UserName = username,
-                UserPwd = userpwd
+                UserPwd = MD5Helper.MD5Encrypt32(userpwd)
             };
             //判断用户名是否存在
             var oldWriter = await _iwriterInfoService.FindAsync(c => c.UserName == username);

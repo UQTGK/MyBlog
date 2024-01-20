@@ -1,0 +1,424 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C# Projects\\MyBlog\\MyBlog.JWT\\MyBlog.JWT.csproj": {}
+  },
+  "projects": {
+    "D:\\C# Projects\\MyBlog\\MyBlog.IRepository\\MyBlog.IRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C# Projects\\MyBlog\\MyBlog.IRepository\\MyBlog.IRepository.csproj",
+        "projectName": "MyBlog.IRepository",
+        "projectPath": "D:\\C# Projects\\MyBlog\\MyBlog.IRepository\\MyBlog.IRepository.csproj",
+        "packagesPath": "C:\\Users\\tgk05\\.nuget\\packages\\",
+        "outputPath": "D:\\C# Projects\\MyBlog\\MyBlog.IRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tgk05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\C# Projects\\MyBlog\\MyBlog.Model\\MyBlog.Model.csproj": {
+                "projectPath": "D:\\C# Projects\\MyBlog\\MyBlog.Model\\MyBlog.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C# Projects\\MyBlog\\MyBlog.IService\\MyBlog.IService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C# Projects\\MyBlog\\MyBlog.IService\\MyBlog.IService.csproj",
+        "projectName": "MyBlog.IService",
+        "projectPath": "D:\\C# Projects\\MyBlog\\MyBlog.IService\\MyBlog.IService.csproj",
+        "packagesPath": "C:\\Users\\tgk05\\.nuget\\packages\\",
+        "outputPath": "D:\\C# Projects\\MyBlog\\MyBlog.IService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tgk05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\C# Projects\\MyBlog\\MyBlog.Model\\MyBlog.Model.csproj": {
+                "projectPath": "D:\\C# Projects\\MyBlog\\MyBlog.Model\\MyBlog.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C# Projects\\MyBlog\\MyBlog.JWT\\MyBlog.JWT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C# Projects\\MyBlog\\MyBlog.JWT\\MyBlog.JWT.csproj",
+        "projectName": "MyBlog.JWT",
+        "projectPath": "D:\\C# Projects\\MyBlog\\MyBlog.JWT\\MyBlog.JWT.csproj",
+        "packagesPath": "C:\\Users\\tgk05\\.nuget\\packages\\",
+        "outputPath": "D:\\C# Projects\\MyBlog\\MyBlog.JWT\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tgk05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\C# Projects\\MyBlog\\MyBlog.IRepository\\MyBlog.IRepository.csproj": {
+                "projectPath": "D:\\C# Projects\\MyBlog\\MyBlog.IRepository\\MyBlog.IRepository.csproj"
+              },
+              "D:\\C# Projects\\MyBlog\\MyBlog.IService\\MyBlog.IService.csproj": {
+                "projectPath": "D:\\C# Projects\\MyBlog\\MyBlog.IService\\MyBlog.IService.csproj"
+              },
+              "D:\\C# Projects\\MyBlog\\MyBlog.Model\\MyBlog.Model.csproj": {
+                "projectPath": "D:\\C# Projects\\MyBlog\\MyBlog.Model\\MyBlog.Model.csproj"
+              },
+              "D:\\C# Projects\\MyBlog\\MyBlog.Repository\\MyBlog.Repository.csproj": {
+                "projectPath": "D:\\C# Projects\\MyBlog\\MyBlog.Repository\\MyBlog.Repository.csproj"
+              },
+              "D:\\C# Projects\\MyBlog\\MyBlog.Service\\MyBlog.Service.csproj": {
+                "projectPath": "D:\\C# Projects\\MyBlog\\MyBlog.Service\\MyBlog.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C# Projects\\MyBlog\\MyBlog.Model\\MyBlog.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C# Projects\\MyBlog\\MyBlog.Model\\MyBlog.Model.csproj",
+        "projectName": "MyBlog.Model",
+        "projectPath": "D:\\C# Projects\\MyBlog\\MyBlog.Model\\MyBlog.Model.csproj",
+        "packagesPath": "C:\\Users\\tgk05\\.nuget\\packages\\",
+        "outputPath": "D:\\C# Projects\\MyBlog\\MyBlog.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tgk05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.1.4.129, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C# Projects\\MyBlog\\MyBlog.Repository\\MyBlog.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C# Projects\\MyBlog\\MyBlog.Repository\\MyBlog.Repository.csproj",
+        "projectName": "MyBlog.Repository",
+        "projectPath": "D:\\C# Projects\\MyBlog\\MyBlog.Repository\\MyBlog.Repository.csproj",
+        "packagesPath": "C:\\Users\\tgk05\\.nuget\\packages\\",
+        "outputPath": "D:\\C# Projects\\MyBlog\\MyBlog.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tgk05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\C# Projects\\MyBlog\\MyBlog.IRepository\\MyBlog.IRepository.csproj": {
+                "projectPath": "D:\\C# Projects\\MyBlog\\MyBlog.IRepository\\MyBlog.IRepository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "SqlSugar.IOC": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C# Projects\\MyBlog\\MyBlog.Service\\MyBlog.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C# Projects\\MyBlog\\MyBlog.Service\\MyBlog.Service.csproj",
+        "projectName": "MyBlog.Service",
+        "projectPath": "D:\\C# Projects\\MyBlog\\MyBlog.Service\\MyBlog.Service.csproj",
+        "packagesPath": "C:\\Users\\tgk05\\.nuget\\packages\\",
+        "outputPath": "D:\\C# Projects\\MyBlog\\MyBlog.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tgk05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\C# Projects\\MyBlog\\MyBlog.IRepository\\MyBlog.IRepository.csproj": {
+                "projectPath": "D:\\C# Projects\\MyBlog\\MyBlog.IRepository\\MyBlog.IRepository.csproj"
+              },
+              "D:\\C# Projects\\MyBlog\\MyBlog.IService\\MyBlog.IService.csproj": {
+                "projectPath": "D:\\C# Projects\\MyBlog\\MyBlog.IService\\MyBlog.IService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
